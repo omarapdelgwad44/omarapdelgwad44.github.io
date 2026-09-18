@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+3:I[62636,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/1-ay_ot5w-lud.js","/_next/static/chunks/1el-syq3sbewl.js"],"InvitationExperience"]
+4:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+b:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+d:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"LoadingBoundaryProvider"]
+e:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+f:I[8821,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/28vuavl4o7h8-.js"],"default"]
+10:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+11:I[22016,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/0axdrs6tow-4n.js"],""]
+:HL["/_next/static/chunks/1yitt3_vtm-il.css","style"]
+2:["$","main",null,{"className":"fallback-invite","children":[["$","p",null,{"className":"fallback-invite__eyebrow","children":"حفل خطوبة"}],["$","h1",null,{"children":["عمر"," و ","جنى"]}],["$","p",null,{"children":"يدعوانكم لحضور حفل خطوبتهما"}],["$","p",null,{"className":"fallback-invite__date","children":["الجمعة"," · ","٩ أكتوبر"," ","٢٠٢٦"]}]]}]
+8:X
+0:{"buildId":"3Og60bhar7bST44SbjLD9","data":[{"rsc":["$","$1","c",{"children":[[["$","noscript",null,{"children":"$2"}],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/1-ay_ot5w-lud.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1el-syq3sbewl.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5"}],["$","meta","2",{"name":"theme-color","content":"#f4eadc"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"عمر وجنى | دعوة الخطوبة"}],["$","meta","1",{"name":"description","content":"دعوة لحضور حفل خطوبة عمر وجنى في التاسع من أكتوبر."}],["$","meta","2",{"name":"application-name","content":"Omar & Jana"}],["$","meta","3",{"name":"author","content":"Omar & Jana"}],["$","meta","4",{"name":"keywords","content":"خطوبة,عمر,جنى,دعوة"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.1mwruaeayurln.svg","sizes":"any","type":"image/svg+xml"}],["$","$Lb","7",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$Ld",null,{"loading":[["$","div","l",{"className":"boot-loader","role":"status","aria-label":"جاري فتح الدعوة","children":["$","span",null,{"className":"boot-loader__ring"}]}],[],null],"children":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1yitt3_vtm-il.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0h2qsuyze9ds1.js","async":true}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"amiri_4f68a141-module__lAkANG__variable cairo_e3e30531-module___rp5zG__variable cormorant_garamond_4b68bbdf-module__dt2Pva__variable great_vibes_fcf897d4-module__SeP6RG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$f","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/28vuavl4o7h8-.js","async":true}]],"template":["$","$L10",null,{}],"notFound":[["$","main",null,{"className":"fallback-invite","children":[["$","h1",null,{"children":["عمر"," و ","جنى"]}],["$","p",null,{"children":"هذه الصفحة ليست جزءًا من الدعوة."}],["$","$L11",null,{"href":"/","className":"maps-btn","children":"العودة إلى الدعوة"}]]}],[]]}]}]}]]}]}],"isPartial":"$@12","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+6:null
+8:300
+14:true
+8:C
+13:0
+c:"$undefined"
+12:"$undefined"
+7:"$undefined"
